@@ -1,6 +1,6 @@
 # 🛒 E-Commerce App Basics – Java Swing Cart & Order Queue Manager
 
-A simple yet effective Java Swing desktop application that simulates an e-commerce shopping flow — adding items to a cart, creating orders, and processing them using a **Queue**.
+A simple yet effective Java Swing desktop application that simulates an e-commerce shopping flow adding items to a cart, creating orders, and processing them using a **Queue**.
 This project demonstrates practical use of **Data Structures (LinkedList Queue)** + **Swing GUI** + **OOP**.
 
 ---
