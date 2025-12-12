@@ -71,7 +71,7 @@ ECommerceAppBasics.java
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https://github.com/MalavikaKrishnan/ECommerceAppBasics.git
+git clone https://github.com/Joshin-07/ECommerceAppBasics.git
 ```
 
 ### 2️⃣ Navigate to the folder
@@ -110,9 +110,8 @@ You may also run it using IntelliJ IDEA, Eclipse, NetBeans, or VS Code.
 
 | Role                   | Contributor                                               |
 | ---------------------- | --------------------------------------------------------- |
-| **Backend Developer**  | [Joshin K Thomas](https://github.com/MariamSkaria)          |
-| **Frontend Developer** | [Karthik Raj](https://github.com/Malavika-Krishnan) |
-
+| **Backend Developer**  | [Joshin K Thomas](https://github.com/Joshin-07)          |
+| **Frontend Developer** | [Karthik Raj] |
 ---
 
 ## 🏆 Highlights
